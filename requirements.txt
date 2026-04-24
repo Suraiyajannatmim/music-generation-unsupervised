@@ -1,0 +1,15 @@
+# Core deep learning
+torch>=2.1
+
+# Data and utilities
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+tqdm>=4.65
+
+# MIDI processing
+pretty_midi>=0.2.10
+mido>=1.3.0
+
+# Notebook / local execution
+notebook>=7.0
