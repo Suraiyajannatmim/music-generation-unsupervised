@@ -1,0 +1,20 @@
+{
+  "note": "Prototype candidate metadata for report package",
+  "candidates": [
+    "task1_autoencoder_01_classical.mid",
+    "task1_autoencoder_02_classical.mid",
+    "task1_autoencoder_03_classical.mid",
+    "task1_autoencoder_04_classical.mid",
+    "task1_autoencoder_05_classical.mid",
+    "task2_vae_01_classical.mid",
+    "task2_vae_02_jazz.mid",
+    "task2_vae_03_pop.mid",
+    "task2_vae_04_rock.mid",
+    "task2_vae_05_electronic.mid",
+    "task2_vae_06_jazz.mid",
+    "task2_vae_07_pop.mid",
+    "task2_vae_08_rock.mid",
+    "task3_transformer_01_classical.mid",
+    "task3_transformer_02_jazz.mid"
+  ]
+}

@@ -1,0 +1,3 @@
+model,loss,perplexity,rhythm_diversity,repetition_ratio,human_score,genre_control
+Random Generator,,,0.34,0.31,1.4,None
+Markov Chain,,,0.51,0.27,2.2,Weak

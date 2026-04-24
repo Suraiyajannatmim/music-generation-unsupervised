@@ -1,0 +1,2 @@
+model,loss,perplexity,rhythm_diversity,repetition_ratio,human_score,genre_control
+Task 3 Transformer,,12.5,0.79,0.16,4.2,Strong

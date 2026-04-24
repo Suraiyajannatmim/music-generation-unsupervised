@@ -1,0 +1,4 @@
+split,files,windows
+train,120,3840
+validation,20,640
+test,20,640

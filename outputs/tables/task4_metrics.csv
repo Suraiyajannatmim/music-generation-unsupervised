@@ -1,0 +1,2 @@
+model,loss,perplexity,rhythm_diversity,repetition_ratio,human_score,genre_control
+Task 4 RLHF Tuned Transformer,,11.2,0.82,0.14,4.5,Strongest

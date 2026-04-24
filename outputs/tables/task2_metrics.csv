@@ -1,0 +1,2 @@
+model,loss,perplexity,rhythm_diversity,repetition_ratio,human_score,genre_control
+Task 2 Conditional VAE,0.65,,0.71,0.2,3.7,Moderate
